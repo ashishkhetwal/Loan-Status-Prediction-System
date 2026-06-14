@@ -20,8 +20,8 @@ This project was built as part of my Machine Learning learning journey and helpe
 
 ## Results
 
-* Training Accuracy: (add your value)  
-* Testing Accuracy: (add your value)  
+* Training Accuracy: 79.8%
+* Testing Accuracy:  83.3%
 
 ---
 
